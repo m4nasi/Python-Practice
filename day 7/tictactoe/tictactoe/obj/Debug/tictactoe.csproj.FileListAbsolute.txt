@@ -1,0 +1,15 @@
+C:\Users\Manas\OneDrive\Documents\day 7\tictactoe\tictactoe\bin\Debug\tictactoe.exe.config
+C:\Users\Manas\OneDrive\Documents\day 7\tictactoe\tictactoe\bin\Debug\tictactoe.exe
+C:\Users\Manas\OneDrive\Documents\day 7\tictactoe\tictactoe\bin\Debug\tictactoe.pdb
+C:\Users\Manas\OneDrive\Documents\day 7\tictactoe\tictactoe\obj\Debug\tictactoe.csprojAssemblyReference.cache
+C:\Users\Manas\OneDrive\Documents\day 7\tictactoe\tictactoe\obj\Debug\MainWindow.g.cs
+C:\Users\Manas\OneDrive\Documents\day 7\tictactoe\tictactoe\obj\Debug\App.g.cs
+C:\Users\Manas\OneDrive\Documents\day 7\tictactoe\tictactoe\obj\Debug\tictactoe_MarkupCompile.cache
+C:\Users\Manas\OneDrive\Documents\day 7\tictactoe\tictactoe\obj\Debug\tictactoe_MarkupCompile.lref
+C:\Users\Manas\OneDrive\Documents\day 7\tictactoe\tictactoe\obj\Debug\MainWindow.baml
+C:\Users\Manas\OneDrive\Documents\day 7\tictactoe\tictactoe\obj\Debug\tictactoe.g.resources
+C:\Users\Manas\OneDrive\Documents\day 7\tictactoe\tictactoe\obj\Debug\tictactoe.Properties.Resources.resources
+C:\Users\Manas\OneDrive\Documents\day 7\tictactoe\tictactoe\obj\Debug\tictactoe.csproj.GenerateResource.cache
+C:\Users\Manas\OneDrive\Documents\day 7\tictactoe\tictactoe\obj\Debug\tictactoe.csproj.CoreCompileInputs.cache
+C:\Users\Manas\OneDrive\Documents\day 7\tictactoe\tictactoe\obj\Debug\tictactoe.exe
+C:\Users\Manas\OneDrive\Documents\day 7\tictactoe\tictactoe\obj\Debug\tictactoe.pdb
